@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1aec2c167fc90ad4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-11 16.46.27.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +186,18 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "88eb6143db56d732",
   "lastOpenFiles": [
-    "OC",
+    "GoLang/Переменные.md",
+    "GoLang/Links.md",
+    "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md",
+    "Excalidraw",
     "Untitled.md",
+    "OC",
     "Сети",
     "Welcome.md",
     "GoLang"
