@@ -21,12 +21,14 @@
             "id": "1aec2c167fc90ad4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md"
+                "file": "GoLang/Links.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-11 16.46.27.excalidraw"
+              "icon": "lucide-file",
+              "title": "Links"
             }
           }
         ],
@@ -190,11 +192,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "88eb6143db56d732",
+  "active": "1aec2c167fc90ad4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md",
     "GoLang/Переменные.md",
     "GoLang/Links.md",
-    "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
     "OC",
