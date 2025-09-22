@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Переменные.md",
+                "file": "GoLang/Анонимные функции и замыкания.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Переменные"
+              "title": "Анонимные функции и замыкания"
             }
           }
         ],
@@ -222,11 +222,12 @@
   },
   "active": "25ffcaa9c04eada5",
   "lastOpenFiles": [
-    "GoLang/Объявления типов.md",
+    "GoLang/Указатели.md",
     "GoLang/Анонимные функции и замыкания.md",
+    "GoLang/Переменные.md",
+    "GoLang/Объявления типов.md",
     "GoLang/Links.md",
     "GoLang/Понятие побега.md",
-    "GoLang/Переменные.md",
     "Excalidraw/Drawing 2025-09-11 16.46.27.excalidraw.md",
     "Excalidraw",
     "OC",
