@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Анонимные функции и замыкания.md",
+                "file": "GIT/Branches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анонимные функции и замыкания"
+              "title": "Branches"
             }
           }
         ],
@@ -222,8 +222,17 @@
   },
   "active": "25ffcaa9c04eada5",
   "lastOpenFiles": [
-    "GoLang/Указатели.md",
+    "GIT/Links.md",
+    "GIT/Merge.md",
+    "GIT/Rebase.md",
+    "GIT/syntax.md",
+    "GIT/Reset & Revert.md",
     "GoLang/Анонимные функции и замыкания.md",
+    "Pictures/Pasted image 20250922151315.png",
+    "Pictures/Pasted image 20250922144201.png",
+    "Pictures/Pasted image 20250922125810.png",
+    "Pictures",
+    "GoLang/Указатели.md",
     "GoLang/Переменные.md",
     "GoLang/Объявления типов.md",
     "GoLang/Links.md",
